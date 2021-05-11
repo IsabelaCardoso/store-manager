@@ -1,7 +1,7 @@
 
 ## Apresentação
 
-O projeto a seguir se trata da construção de uma API utilizando a arquitetura MSC!
+O projeto a seguir apresenta a construção de uma API utilizando a arquitetura MSC!
 
 Se trata-se de um sistema de gerenciamento de vendas, onde será possível criar, visualizar, deletar e atualizar produtos e vendas.
 
